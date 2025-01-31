@@ -188,7 +188,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: linear-gradient( rgb(243, 45, 151), rebeccapurple, rgb(0, 102, 255));
+    background-image: linear-gradient(98deg, rgb(243, 45, 151), rebeccapurple, rgb(0, 102, 255));
     bottom: 0;
     height: auto;
     width: 100%;
